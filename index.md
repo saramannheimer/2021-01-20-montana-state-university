@@ -5,9 +5,9 @@ address: "Online"
 country: "us"     
 language: "en"    
 humandate: "January 20, January 27 (tentative), February 17, March 10, and March 31, 2021"   
-humantime: "3:00 pm - 5:00 pm"    
-startdate: 2020-09-03     
-enddate: 2020-11-05       
+humantime: "3:10 pm - 5:00 pm"    
+startdate: 2021-01-20     
+enddate: 2021-03-31       
 instructor: ["Mark Greenwood", "Greta Linse", "Sara Mannheimer"] 
 helper: ["SCRS Graduate Research Assistants"]    
 email: ["greenwood@montana.edu", "greta.linse@montana.edu", "sara.mannheimer@montana.edu"]   
